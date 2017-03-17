@@ -4,8 +4,8 @@ package org.service;
  * Hello world!
  *
  */
-public class App {
+public class App2 {
 	public static void main(String[] args) {
-		System.out.println("这是1的第一次提交");
+		System.out.println("这是2的第一次提交");
 	}
 }
