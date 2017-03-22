@@ -9,6 +9,7 @@ public class App {
 		System.out.println("这是1的第一次提交");
 		System.out.println("这是1的第2次提交");
 		System.out.println("ceshi");
+		System.out.println("ceshi2");
 		
 	}
 }
